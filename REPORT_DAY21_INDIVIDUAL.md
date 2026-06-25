@@ -1,6 +1,6 @@
 # Day 21 Track 1 - Individual Lab Report
 
-**Học viên:** 2A202600681  
+**Học viên:** 2A202600681 - Nguyễn Tiến Sỉ
 **Phạm vi:** Phần cá nhân - Scenario Dataset v0. Bài này không chạy agent, không đọc trace và không xây evaluator tự động.
 
 ## 1. Deliverables
